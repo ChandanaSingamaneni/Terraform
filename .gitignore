@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Sensitive
+*.tfvars
+*.tfvars.json
+
+# Mac
+.DS_Store
